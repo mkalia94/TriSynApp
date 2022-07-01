@@ -2,7 +2,7 @@ alabaster==0.7.12
 altair==4.2.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
-Assimulo==3.2.9
+Assimulo
 astatine==0.3.2
 astor==0.8.1
 astpretty==3.0.0
