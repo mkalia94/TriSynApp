@@ -10,7 +10,6 @@ astroid==2.11.6
 asttokens==2.0.5
 attrs==21.4.0
 autoflake==1.4
-autograd @ file:///tmp/build/80754af9/autograd_1633631524118/work
 Babel==2.10.3
 backcall==0.2.0
 bandit==1.7.4
@@ -18,7 +17,7 @@ beautifulsoup4==4.11.1
 black==22.6.0
 bleach==5.0.1
 blinker==1.4
-brokenaxes @ file:///home/conda/feedstock_root/build_artifacts/brokenaxes_1609620053488/work
+brokenaxes 
 cachetools==5.2.0
 certifi==2022.6.15
 cffi==1.15.1
@@ -27,7 +26,7 @@ click==8.1.3
 cognitive-complexity==1.2.0
 commonmark==0.9.1
 coverage==6.4.1
-cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+cycler 
 darglint==1.8.1
 debugpy==1.6.0
 decorator==5.1.1
@@ -103,7 +102,7 @@ flake8-useless-assert==0.4.3
 flake8-variables-names==0.0.5
 flake8-warnings==0.2.1
 fonttools==4.25.0
-future @ file:///home/builder/ci_310/future_1640790123501/work
+future
 gitdb==4.0.9
 GitPython==3.1.27
 hypothesis==6.48.2
@@ -125,17 +124,17 @@ jupyter-core==4.10.0
 jupyterlab-flake8==0.7.1
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.1
-kiwisolver @ file:///opt/conda/conda-bld/kiwisolver_1653292039266/work
+kiwisolver
 lark-parser==0.12.0
 lazy-object-proxy==1.7.1
 libcst==0.4.5
 MarkupSafe==2.1.1
-matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1647441664166/work
+matplotlib
 matplotlib-inline==0.1.3
 mccabe==0.6.1
 mistune==0.8.4
 mkl-fft==1.3.1
-mkl-random @ file:///home/builder/ci_310/mkl_random_1641843545607/work
+mkl-random
 mkl-service==2.4.0
 mr-proper==0.0.7
 munkres==1.1.4
@@ -146,8 +145,8 @@ nbconvert==6.5.0
 nbformat==5.4.0
 nest-asyncio==1.5.5
 notebook==6.4.12
-numpy @ file:///opt/conda/conda-bld/numpy_and_numpy_base_1652801679809/work
-packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+numpy
+packaging
 pandas==1.4.3
 pandas-vet==0.2.3
 pandocfilters==1.5.0
@@ -179,12 +178,12 @@ pyflakes==2.4.0
 Pygments==2.12.0
 pylint==2.14.4
 Pympler==1.0.1
-pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyparsing
 pyrsistent==0.18.1
 pytest==7.1.2
 pytest-cov==3.0.0
 pytest-sugar==0.9.4
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil
 python-dev-tools==2022.5.27
 pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
@@ -195,11 +194,11 @@ removestar==1.3.1
 requests==2.28.1
 restructuredtext-lint==1.4.0
 rich==12.4.4
-scipy @ file:///home/conda/feedstock_root/build_artifacts/scipy_1653073872310/work
+scipy
 semver==2.13.0
 Send2Trash==1.8.0
 sip==4.19.13
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six
 smmap==5.0.0
 snowballstemmer==2.2.0
 sortedcontainers==2.4.0
@@ -225,7 +224,7 @@ toml==0.10.2
 tomli==2.0.1
 tomlkit==0.11.0
 toolz==0.11.2
-tornado @ file:///home/builder/ci_310/tornado_1640795392144/work
+tornado
 tox==3.25.1
 tox-travis==0.12
 traitlets==5.3.0
