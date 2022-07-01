@@ -2,7 +2,6 @@ streamlit
 matplotlib
 scipy
 numpy
-assimulo
 argparse
 json
 os
