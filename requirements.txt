@@ -2,7 +2,5 @@ streamlit
 matplotlib
 scipy
 numpy
-os
-autograd
 brokenaxes
 warnings
